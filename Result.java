@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Result extends Calculator{
-    public static void main(String [] rgs){
+    public static void main(String [] args){
         Calculator c = new Calculator();
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your choice");
